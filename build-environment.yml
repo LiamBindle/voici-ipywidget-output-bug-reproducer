@@ -1,0 +1,6 @@
+name: voici-build-nsreianfiwqni
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - voici=0.7
